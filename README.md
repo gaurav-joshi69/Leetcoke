@@ -29,6 +29,7 @@ this repo contains solutinos of leetcode problems
 ## Array
 |  |
 | ------- |
+| [0322-coin-change](https://github.com/gaurav-joshi69/Leetcoke/tree/master/0322-coin-change) |
 | [0966-binary-subarrays-with-sum](https://github.com/gaurav-joshi69/Leetcoke/tree/master/0966-binary-subarrays-with-sum) |
 | [1034-subarrays-with-k-different-integers](https://github.com/gaurav-joshi69/Leetcoke/tree/master/1034-subarrays-with-k-different-integers) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/gaurav-joshi69/Leetcoke/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
@@ -53,6 +54,7 @@ this repo contains solutinos of leetcode problems
 ## Dynamic Programming
 |  |
 | ------- |
+| [0322-coin-change](https://github.com/gaurav-joshi69/Leetcoke/tree/master/0322-coin-change) |
 | [2162-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/gaurav-joshi69/Leetcoke/tree/master/2162-partition-array-into-two-arrays-to-minimize-sum-difference) |
 ## Bit Manipulation
 |  |
@@ -66,4 +68,8 @@ this repo contains solutinos of leetcode problems
 |  |
 | ------- |
 | [2162-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/gaurav-joshi69/Leetcoke/tree/master/2162-partition-array-into-two-arrays-to-minimize-sum-difference) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0322-coin-change](https://github.com/gaurav-joshi69/Leetcoke/tree/master/0322-coin-change) |
 <!---LeetCode Topics End-->
