@@ -16,6 +16,7 @@ this repo contains solutinos of leetcode problems
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/gaurav-joshi69/Leetcoke/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0424-longest-repeating-character-replacement](https://github.com/gaurav-joshi69/Leetcoke/tree/master/0424-longest-repeating-character-replacement) |
+| [1250-longest-common-subsequence](https://github.com/gaurav-joshi69/Leetcoke/tree/master/1250-longest-common-subsequence) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/gaurav-joshi69/Leetcoke/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 ## Sliding Window
 |  |
@@ -57,6 +58,7 @@ this repo contains solutinos of leetcode problems
 | ------- |
 | [0322-coin-change](https://github.com/gaurav-joshi69/Leetcoke/tree/master/0322-coin-change) |
 | [0518-coin-change-ii](https://github.com/gaurav-joshi69/Leetcoke/tree/master/0518-coin-change-ii) |
+| [1250-longest-common-subsequence](https://github.com/gaurav-joshi69/Leetcoke/tree/master/1250-longest-common-subsequence) |
 | [2162-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/gaurav-joshi69/Leetcoke/tree/master/2162-partition-array-into-two-arrays-to-minimize-sum-difference) |
 ## Bit Manipulation
 |  |
