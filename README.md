@@ -31,6 +31,7 @@ this repo contains solutinos of leetcode problems
 ## Array
 |  |
 | ------- |
+| [0283-move-zeroes](https://github.com/gaurav-joshi69/Leetcoke/tree/master/0283-move-zeroes) |
 | [0322-coin-change](https://github.com/gaurav-joshi69/Leetcoke/tree/master/0322-coin-change) |
 | [0518-coin-change-ii](https://github.com/gaurav-joshi69/Leetcoke/tree/master/0518-coin-change-ii) |
 | [0966-binary-subarrays-with-sum](https://github.com/gaurav-joshi69/Leetcoke/tree/master/0966-binary-subarrays-with-sum) |
@@ -49,6 +50,7 @@ this repo contains solutinos of leetcode problems
 ## Two Pointers
 |  |
 | ------- |
+| [0283-move-zeroes](https://github.com/gaurav-joshi69/Leetcoke/tree/master/0283-move-zeroes) |
 | [2162-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/gaurav-joshi69/Leetcoke/tree/master/2162-partition-array-into-two-arrays-to-minimize-sum-difference) |
 ## Binary Search
 |  |
