@@ -39,6 +39,7 @@ this repo contains solutinos of leetcode problems
 | [0309-best-time-to-buy-and-sell-stock-with-cooldown](https://github.com/gaurav-joshi69/Leetcoke/tree/master/0309-best-time-to-buy-and-sell-stock-with-cooldown) |
 | [0322-coin-change](https://github.com/gaurav-joshi69/Leetcoke/tree/master/0322-coin-change) |
 | [0518-coin-change-ii](https://github.com/gaurav-joshi69/Leetcoke/tree/master/0518-coin-change-ii) |
+| [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/gaurav-joshi69/Leetcoke/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0966-binary-subarrays-with-sum](https://github.com/gaurav-joshi69/Leetcoke/tree/master/0966-binary-subarrays-with-sum) |
 | [1034-subarrays-with-k-different-integers](https://github.com/gaurav-joshi69/Leetcoke/tree/master/1034-subarrays-with-k-different-integers) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/gaurav-joshi69/Leetcoke/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
@@ -72,6 +73,7 @@ this repo contains solutinos of leetcode problems
 | [0322-coin-change](https://github.com/gaurav-joshi69/Leetcoke/tree/master/0322-coin-change) |
 | [0516-longest-palindromic-subsequence](https://github.com/gaurav-joshi69/Leetcoke/tree/master/0516-longest-palindromic-subsequence) |
 | [0518-coin-change-ii](https://github.com/gaurav-joshi69/Leetcoke/tree/master/0518-coin-change-ii) |
+| [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/gaurav-joshi69/Leetcoke/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [1250-longest-common-subsequence](https://github.com/gaurav-joshi69/Leetcoke/tree/master/1250-longest-common-subsequence) |
 | [2162-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/gaurav-joshi69/Leetcoke/tree/master/2162-partition-array-into-two-arrays-to-minimize-sum-difference) |
 ## Bit Manipulation
@@ -94,4 +96,5 @@ this repo contains solutinos of leetcode problems
 |  |
 | ------- |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/gaurav-joshi69/Leetcoke/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/gaurav-joshi69/Leetcoke/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 <!---LeetCode Topics End-->
