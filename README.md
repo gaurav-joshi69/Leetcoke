@@ -11,6 +11,7 @@ this repo contains solutinos of leetcode problems
 | [0966-binary-subarrays-with-sum](https://github.com/gaurav-joshi69/Leetcoke/tree/master/0966-binary-subarrays-with-sum) |
 | [1034-subarrays-with-k-different-integers](https://github.com/gaurav-joshi69/Leetcoke/tree/master/1034-subarrays-with-k-different-integers) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/gaurav-joshi69/Leetcoke/tree/master/1460-number-of-substrings-containing-all-three-characters) |
+| [3455-minimum-length-of-string-after-operations](https://github.com/gaurav-joshi69/Leetcoke/tree/master/3455-minimum-length-of-string-after-operations) |
 ## String
 |  |
 | ------- |
@@ -19,6 +20,7 @@ this repo contains solutinos of leetcode problems
 | [0516-longest-palindromic-subsequence](https://github.com/gaurav-joshi69/Leetcoke/tree/master/0516-longest-palindromic-subsequence) |
 | [1250-longest-common-subsequence](https://github.com/gaurav-joshi69/Leetcoke/tree/master/1250-longest-common-subsequence) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/gaurav-joshi69/Leetcoke/tree/master/1460-number-of-substrings-containing-all-three-characters) |
+| [3455-minimum-length-of-string-after-operations](https://github.com/gaurav-joshi69/Leetcoke/tree/master/3455-minimum-length-of-string-after-operations) |
 ## Sliding Window
 |  |
 | ------- |
@@ -53,6 +55,7 @@ this repo contains solutinos of leetcode problems
 |  |
 | ------- |
 | [1034-subarrays-with-k-different-integers](https://github.com/gaurav-joshi69/Leetcoke/tree/master/1034-subarrays-with-k-different-integers) |
+| [3455-minimum-length-of-string-after-operations](https://github.com/gaurav-joshi69/Leetcoke/tree/master/3455-minimum-length-of-string-after-operations) |
 ## Two Pointers
 |  |
 | ------- |
