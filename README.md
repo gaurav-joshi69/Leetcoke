@@ -16,6 +16,7 @@ this repo contains solutinos of leetcode problems
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/gaurav-joshi69/Leetcoke/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0005-longest-palindromic-substring](https://github.com/gaurav-joshi69/Leetcoke/tree/master/0005-longest-palindromic-substring) |
 | [0020-valid-parentheses](https://github.com/gaurav-joshi69/Leetcoke/tree/master/0020-valid-parentheses) |
 | [0424-longest-repeating-character-replacement](https://github.com/gaurav-joshi69/Leetcoke/tree/master/0424-longest-repeating-character-replacement) |
 | [0516-longest-palindromic-subsequence](https://github.com/gaurav-joshi69/Leetcoke/tree/master/0516-longest-palindromic-subsequence) |
@@ -60,6 +61,7 @@ this repo contains solutinos of leetcode problems
 ## Two Pointers
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/gaurav-joshi69/Leetcoke/tree/master/0005-longest-palindromic-substring) |
 | [0283-move-zeroes](https://github.com/gaurav-joshi69/Leetcoke/tree/master/0283-move-zeroes) |
 | [2162-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/gaurav-joshi69/Leetcoke/tree/master/2162-partition-array-into-two-arrays-to-minimize-sum-difference) |
 ## Binary Search
@@ -69,6 +71,7 @@ this repo contains solutinos of leetcode problems
 ## Dynamic Programming
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/gaurav-joshi69/Leetcoke/tree/master/0005-longest-palindromic-substring) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/gaurav-joshi69/Leetcoke/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/gaurav-joshi69/Leetcoke/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/gaurav-joshi69/Leetcoke/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
