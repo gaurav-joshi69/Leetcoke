@@ -111,4 +111,8 @@ this repo contains solutinos of leetcode problems
 | ------- |
 | [0020-valid-parentheses](https://github.com/gaurav-joshi69/Leetcoke/tree/master/0020-valid-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/gaurav-joshi69/Leetcoke/tree/master/0032-longest-valid-parentheses) |
+## Math
+|  |
+| ------- |
+| [0007-reverse-integer](https://github.com/gaurav-joshi69/Leetcoke/tree/master/0007-reverse-integer) |
 <!---LeetCode Topics End-->
