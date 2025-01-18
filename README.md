@@ -7,6 +7,7 @@ this repo contains solutinos of leetcode problems
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/gaurav-joshi69/Leetcoke/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0073-set-matrix-zeroes](https://github.com/gaurav-joshi69/Leetcoke/tree/master/0073-set-matrix-zeroes) |
 | [0424-longest-repeating-character-replacement](https://github.com/gaurav-joshi69/Leetcoke/tree/master/0424-longest-repeating-character-replacement) |
 | [0966-binary-subarrays-with-sum](https://github.com/gaurav-joshi69/Leetcoke/tree/master/0966-binary-subarrays-with-sum) |
 | [1034-subarrays-with-k-different-integers](https://github.com/gaurav-joshi69/Leetcoke/tree/master/1034-subarrays-with-k-different-integers) |
@@ -36,6 +37,7 @@ this repo contains solutinos of leetcode problems
 ## Array
 |  |
 | ------- |
+| [0073-set-matrix-zeroes](https://github.com/gaurav-joshi69/Leetcoke/tree/master/0073-set-matrix-zeroes) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/gaurav-joshi69/Leetcoke/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/gaurav-joshi69/Leetcoke/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/gaurav-joshi69/Leetcoke/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
@@ -115,4 +117,8 @@ this repo contains solutinos of leetcode problems
 |  |
 | ------- |
 | [0007-reverse-integer](https://github.com/gaurav-joshi69/Leetcoke/tree/master/0007-reverse-integer) |
+## Matrix
+|  |
+| ------- |
+| [0073-set-matrix-zeroes](https://github.com/gaurav-joshi69/Leetcoke/tree/master/0073-set-matrix-zeroes) |
 <!---LeetCode Topics End-->
