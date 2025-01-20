@@ -20,6 +20,7 @@ this repo contains solutinos of leetcode problems
 | [0005-longest-palindromic-substring](https://github.com/gaurav-joshi69/Leetcoke/tree/master/0005-longest-palindromic-substring) |
 | [0020-valid-parentheses](https://github.com/gaurav-joshi69/Leetcoke/tree/master/0020-valid-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/gaurav-joshi69/Leetcoke/tree/master/0032-longest-valid-parentheses) |
+| [0151-reverse-words-in-a-string](https://github.com/gaurav-joshi69/Leetcoke/tree/master/0151-reverse-words-in-a-string) |
 | [0424-longest-repeating-character-replacement](https://github.com/gaurav-joshi69/Leetcoke/tree/master/0424-longest-repeating-character-replacement) |
 | [0516-longest-palindromic-subsequence](https://github.com/gaurav-joshi69/Leetcoke/tree/master/0516-longest-palindromic-subsequence) |
 | [1078-remove-outermost-parentheses](https://github.com/gaurav-joshi69/Leetcoke/tree/master/1078-remove-outermost-parentheses) |
@@ -67,6 +68,7 @@ this repo contains solutinos of leetcode problems
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/gaurav-joshi69/Leetcoke/tree/master/0005-longest-palindromic-substring) |
+| [0151-reverse-words-in-a-string](https://github.com/gaurav-joshi69/Leetcoke/tree/master/0151-reverse-words-in-a-string) |
 | [0283-move-zeroes](https://github.com/gaurav-joshi69/Leetcoke/tree/master/0283-move-zeroes) |
 | [2162-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/gaurav-joshi69/Leetcoke/tree/master/2162-partition-array-into-two-arrays-to-minimize-sum-difference) |
 ## Binary Search
