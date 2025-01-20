@@ -22,6 +22,7 @@ this repo contains solutinos of leetcode problems
 | [0032-longest-valid-parentheses](https://github.com/gaurav-joshi69/Leetcoke/tree/master/0032-longest-valid-parentheses) |
 | [0424-longest-repeating-character-replacement](https://github.com/gaurav-joshi69/Leetcoke/tree/master/0424-longest-repeating-character-replacement) |
 | [0516-longest-palindromic-subsequence](https://github.com/gaurav-joshi69/Leetcoke/tree/master/0516-longest-palindromic-subsequence) |
+| [1078-remove-outermost-parentheses](https://github.com/gaurav-joshi69/Leetcoke/tree/master/1078-remove-outermost-parentheses) |
 | [1250-longest-common-subsequence](https://github.com/gaurav-joshi69/Leetcoke/tree/master/1250-longest-common-subsequence) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/gaurav-joshi69/Leetcoke/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [3455-minimum-length-of-string-after-operations](https://github.com/gaurav-joshi69/Leetcoke/tree/master/3455-minimum-length-of-string-after-operations) |
@@ -114,6 +115,7 @@ this repo contains solutinos of leetcode problems
 | ------- |
 | [0020-valid-parentheses](https://github.com/gaurav-joshi69/Leetcoke/tree/master/0020-valid-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/gaurav-joshi69/Leetcoke/tree/master/0032-longest-valid-parentheses) |
+| [1078-remove-outermost-parentheses](https://github.com/gaurav-joshi69/Leetcoke/tree/master/1078-remove-outermost-parentheses) |
 ## Math
 |  |
 | ------- |
