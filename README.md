@@ -26,6 +26,7 @@ this repo contains solutinos of leetcode problems
 | [1078-remove-outermost-parentheses](https://github.com/gaurav-joshi69/Leetcoke/tree/master/1078-remove-outermost-parentheses) |
 | [1250-longest-common-subsequence](https://github.com/gaurav-joshi69/Leetcoke/tree/master/1250-longest-common-subsequence) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/gaurav-joshi69/Leetcoke/tree/master/1460-number-of-substrings-containing-all-three-characters) |
+| [2032-largest-odd-number-in-string](https://github.com/gaurav-joshi69/Leetcoke/tree/master/2032-largest-odd-number-in-string) |
 | [3455-minimum-length-of-string-after-operations](https://github.com/gaurav-joshi69/Leetcoke/tree/master/3455-minimum-length-of-string-after-operations) |
 ## Sliding Window
 |  |
@@ -112,6 +113,7 @@ this repo contains solutinos of leetcode problems
 | ------- |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/gaurav-joshi69/Leetcoke/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/gaurav-joshi69/Leetcoke/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
+| [2032-largest-odd-number-in-string](https://github.com/gaurav-joshi69/Leetcoke/tree/master/2032-largest-odd-number-in-string) |
 ## Stack
 |  |
 | ------- |
@@ -122,6 +124,7 @@ this repo contains solutinos of leetcode problems
 |  |
 | ------- |
 | [0007-reverse-integer](https://github.com/gaurav-joshi69/Leetcoke/tree/master/0007-reverse-integer) |
+| [2032-largest-odd-number-in-string](https://github.com/gaurav-joshi69/Leetcoke/tree/master/2032-largest-odd-number-in-string) |
 ## Matrix
 |  |
 | ------- |
