@@ -18,6 +18,7 @@ this repo contains solutinos of leetcode problems
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/gaurav-joshi69/Leetcoke/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0005-longest-palindromic-substring](https://github.com/gaurav-joshi69/Leetcoke/tree/master/0005-longest-palindromic-substring) |
+| [0014-longest-common-prefix](https://github.com/gaurav-joshi69/Leetcoke/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/gaurav-joshi69/Leetcoke/tree/master/0020-valid-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/gaurav-joshi69/Leetcoke/tree/master/0032-longest-valid-parentheses) |
 | [0151-reverse-words-in-a-string](https://github.com/gaurav-joshi69/Leetcoke/tree/master/0151-reverse-words-in-a-string) |
@@ -129,4 +130,8 @@ this repo contains solutinos of leetcode problems
 |  |
 | ------- |
 | [0073-set-matrix-zeroes](https://github.com/gaurav-joshi69/Leetcoke/tree/master/0073-set-matrix-zeroes) |
+## Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/gaurav-joshi69/Leetcoke/tree/master/0014-longest-common-prefix) |
 <!---LeetCode Topics End-->
