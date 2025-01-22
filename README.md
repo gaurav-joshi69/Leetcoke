@@ -26,6 +26,7 @@ this repo contains solutinos of leetcode problems
 | [0205-isomorphic-strings](https://github.com/gaurav-joshi69/Leetcoke/tree/master/0205-isomorphic-strings) |
 | [0424-longest-repeating-character-replacement](https://github.com/gaurav-joshi69/Leetcoke/tree/master/0424-longest-repeating-character-replacement) |
 | [0516-longest-palindromic-subsequence](https://github.com/gaurav-joshi69/Leetcoke/tree/master/0516-longest-palindromic-subsequence) |
+| [0957-minimum-add-to-make-parentheses-valid](https://github.com/gaurav-joshi69/Leetcoke/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1078-remove-outermost-parentheses](https://github.com/gaurav-joshi69/Leetcoke/tree/master/1078-remove-outermost-parentheses) |
 | [1250-longest-common-subsequence](https://github.com/gaurav-joshi69/Leetcoke/tree/master/1250-longest-common-subsequence) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/gaurav-joshi69/Leetcoke/tree/master/1460-number-of-substrings-containing-all-three-characters) |
@@ -116,12 +117,14 @@ this repo contains solutinos of leetcode problems
 | ------- |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/gaurav-joshi69/Leetcoke/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/gaurav-joshi69/Leetcoke/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
+| [0957-minimum-add-to-make-parentheses-valid](https://github.com/gaurav-joshi69/Leetcoke/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [2032-largest-odd-number-in-string](https://github.com/gaurav-joshi69/Leetcoke/tree/master/2032-largest-odd-number-in-string) |
 ## Stack
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/gaurav-joshi69/Leetcoke/tree/master/0020-valid-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/gaurav-joshi69/Leetcoke/tree/master/0032-longest-valid-parentheses) |
+| [0957-minimum-add-to-make-parentheses-valid](https://github.com/gaurav-joshi69/Leetcoke/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1078-remove-outermost-parentheses](https://github.com/gaurav-joshi69/Leetcoke/tree/master/1078-remove-outermost-parentheses) |
 ## Math
 |  |
