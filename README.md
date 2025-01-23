@@ -9,6 +9,7 @@ this repo contains solutinos of leetcode problems
 | [0003-longest-substring-without-repeating-characters](https://github.com/gaurav-joshi69/Leetcoke/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0073-set-matrix-zeroes](https://github.com/gaurav-joshi69/Leetcoke/tree/master/0073-set-matrix-zeroes) |
 | [0205-isomorphic-strings](https://github.com/gaurav-joshi69/Leetcoke/tree/master/0205-isomorphic-strings) |
+| [0229-majority-element-ii](https://github.com/gaurav-joshi69/Leetcoke/tree/master/0229-majority-element-ii) |
 | [0424-longest-repeating-character-replacement](https://github.com/gaurav-joshi69/Leetcoke/tree/master/0424-longest-repeating-character-replacement) |
 | [0966-binary-subarrays-with-sum](https://github.com/gaurav-joshi69/Leetcoke/tree/master/0966-binary-subarrays-with-sum) |
 | [1034-subarrays-with-k-different-integers](https://github.com/gaurav-joshi69/Leetcoke/tree/master/1034-subarrays-with-k-different-integers) |
@@ -49,6 +50,7 @@ this repo contains solutinos of leetcode problems
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/gaurav-joshi69/Leetcoke/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/gaurav-joshi69/Leetcoke/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
 | [0188-best-time-to-buy-and-sell-stock-iv](https://github.com/gaurav-joshi69/Leetcoke/tree/master/0188-best-time-to-buy-and-sell-stock-iv) |
+| [0229-majority-element-ii](https://github.com/gaurav-joshi69/Leetcoke/tree/master/0229-majority-element-ii) |
 | [0283-move-zeroes](https://github.com/gaurav-joshi69/Leetcoke/tree/master/0283-move-zeroes) |
 | [0309-best-time-to-buy-and-sell-stock-with-cooldown](https://github.com/gaurav-joshi69/Leetcoke/tree/master/0309-best-time-to-buy-and-sell-stock-with-cooldown) |
 | [0322-coin-change](https://github.com/gaurav-joshi69/Leetcoke/tree/master/0322-coin-change) |
@@ -67,6 +69,7 @@ this repo contains solutinos of leetcode problems
 ## Counting
 |  |
 | ------- |
+| [0229-majority-element-ii](https://github.com/gaurav-joshi69/Leetcoke/tree/master/0229-majority-element-ii) |
 | [1034-subarrays-with-k-different-integers](https://github.com/gaurav-joshi69/Leetcoke/tree/master/1034-subarrays-with-k-different-integers) |
 | [3455-minimum-length-of-string-after-operations](https://github.com/gaurav-joshi69/Leetcoke/tree/master/3455-minimum-length-of-string-after-operations) |
 ## Two Pointers
@@ -139,4 +142,8 @@ this repo contains solutinos of leetcode problems
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/gaurav-joshi69/Leetcoke/tree/master/0014-longest-common-prefix) |
+## Sorting
+|  |
+| ------- |
+| [0229-majority-element-ii](https://github.com/gaurav-joshi69/Leetcoke/tree/master/0229-majority-element-ii) |
 <!---LeetCode Topics End-->
