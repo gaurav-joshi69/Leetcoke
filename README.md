@@ -7,6 +7,7 @@ this repo contains solutinos of leetcode problems
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/gaurav-joshi69/Leetcoke/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0012-integer-to-roman](https://github.com/gaurav-joshi69/Leetcoke/tree/master/0012-integer-to-roman) |
 | [0073-set-matrix-zeroes](https://github.com/gaurav-joshi69/Leetcoke/tree/master/0073-set-matrix-zeroes) |
 | [0205-isomorphic-strings](https://github.com/gaurav-joshi69/Leetcoke/tree/master/0205-isomorphic-strings) |
 | [0229-majority-element-ii](https://github.com/gaurav-joshi69/Leetcoke/tree/master/0229-majority-element-ii) |
@@ -20,6 +21,7 @@ this repo contains solutinos of leetcode problems
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/gaurav-joshi69/Leetcoke/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0005-longest-palindromic-substring](https://github.com/gaurav-joshi69/Leetcoke/tree/master/0005-longest-palindromic-substring) |
+| [0012-integer-to-roman](https://github.com/gaurav-joshi69/Leetcoke/tree/master/0012-integer-to-roman) |
 | [0014-longest-common-prefix](https://github.com/gaurav-joshi69/Leetcoke/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/gaurav-joshi69/Leetcoke/tree/master/0020-valid-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/gaurav-joshi69/Leetcoke/tree/master/0032-longest-valid-parentheses) |
@@ -133,6 +135,7 @@ this repo contains solutinos of leetcode problems
 |  |
 | ------- |
 | [0007-reverse-integer](https://github.com/gaurav-joshi69/Leetcoke/tree/master/0007-reverse-integer) |
+| [0012-integer-to-roman](https://github.com/gaurav-joshi69/Leetcoke/tree/master/0012-integer-to-roman) |
 | [2032-largest-odd-number-in-string](https://github.com/gaurav-joshi69/Leetcoke/tree/master/2032-largest-odd-number-in-string) |
 ## Matrix
 |  |
