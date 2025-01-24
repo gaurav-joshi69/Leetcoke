@@ -116,6 +116,7 @@ this repo contains solutinos of leetcode problems
 ## Breadth-First Search
 |  |
 | ------- |
+| [0100-same-tree](https://github.com/gaurav-joshi69/Leetcoke/tree/master/0100-same-tree) |
 | [0322-coin-change](https://github.com/gaurav-joshi69/Leetcoke/tree/master/0322-coin-change) |
 ## Greedy
 |  |
@@ -149,4 +150,16 @@ this repo contains solutinos of leetcode problems
 |  |
 | ------- |
 | [0229-majority-element-ii](https://github.com/gaurav-joshi69/Leetcoke/tree/master/0229-majority-element-ii) |
+## Tree
+|  |
+| ------- |
+| [0100-same-tree](https://github.com/gaurav-joshi69/Leetcoke/tree/master/0100-same-tree) |
+## Depth-First Search
+|  |
+| ------- |
+| [0100-same-tree](https://github.com/gaurav-joshi69/Leetcoke/tree/master/0100-same-tree) |
+## Binary Tree
+|  |
+| ------- |
+| [0100-same-tree](https://github.com/gaurav-joshi69/Leetcoke/tree/master/0100-same-tree) |
 <!---LeetCode Topics End-->
