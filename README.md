@@ -47,6 +47,7 @@ this repo contains solutinos of leetcode problems
 ## Array
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/gaurav-joshi69/Leetcoke/tree/master/0053-maximum-subarray) |
 | [0073-set-matrix-zeroes](https://github.com/gaurav-joshi69/Leetcoke/tree/master/0073-set-matrix-zeroes) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/gaurav-joshi69/Leetcoke/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/gaurav-joshi69/Leetcoke/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
@@ -90,6 +91,7 @@ this repo contains solutinos of leetcode problems
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/gaurav-joshi69/Leetcoke/tree/master/0005-longest-palindromic-substring) |
 | [0032-longest-valid-parentheses](https://github.com/gaurav-joshi69/Leetcoke/tree/master/0032-longest-valid-parentheses) |
+| [0053-maximum-subarray](https://github.com/gaurav-joshi69/Leetcoke/tree/master/0053-maximum-subarray) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/gaurav-joshi69/Leetcoke/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/gaurav-joshi69/Leetcoke/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/gaurav-joshi69/Leetcoke/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
@@ -162,4 +164,8 @@ this repo contains solutinos of leetcode problems
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/gaurav-joshi69/Leetcoke/tree/master/0100-same-tree) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0053-maximum-subarray](https://github.com/gaurav-joshi69/Leetcoke/tree/master/0053-maximum-subarray) |
 <!---LeetCode Topics End-->
