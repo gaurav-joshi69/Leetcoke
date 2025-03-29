@@ -50,6 +50,7 @@ this repo contains solutinos of leetcode problems
 | [0031-next-permutation](https://github.com/gaurav-joshi69/Leetcoke/tree/master/0031-next-permutation) |
 | [0053-maximum-subarray](https://github.com/gaurav-joshi69/Leetcoke/tree/master/0053-maximum-subarray) |
 | [0073-set-matrix-zeroes](https://github.com/gaurav-joshi69/Leetcoke/tree/master/0073-set-matrix-zeroes) |
+| [0075-sort-colors](https://github.com/gaurav-joshi69/Leetcoke/tree/master/0075-sort-colors) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/gaurav-joshi69/Leetcoke/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/gaurav-joshi69/Leetcoke/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/gaurav-joshi69/Leetcoke/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
@@ -81,6 +82,7 @@ this repo contains solutinos of leetcode problems
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/gaurav-joshi69/Leetcoke/tree/master/0005-longest-palindromic-substring) |
 | [0031-next-permutation](https://github.com/gaurav-joshi69/Leetcoke/tree/master/0031-next-permutation) |
+| [0075-sort-colors](https://github.com/gaurav-joshi69/Leetcoke/tree/master/0075-sort-colors) |
 | [0151-reverse-words-in-a-string](https://github.com/gaurav-joshi69/Leetcoke/tree/master/0151-reverse-words-in-a-string) |
 | [0283-move-zeroes](https://github.com/gaurav-joshi69/Leetcoke/tree/master/0283-move-zeroes) |
 | [2162-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/gaurav-joshi69/Leetcoke/tree/master/2162-partition-array-into-two-arrays-to-minimize-sum-difference) |
@@ -153,6 +155,7 @@ this repo contains solutinos of leetcode problems
 ## Sorting
 |  |
 | ------- |
+| [0075-sort-colors](https://github.com/gaurav-joshi69/Leetcoke/tree/master/0075-sort-colors) |
 | [0229-majority-element-ii](https://github.com/gaurav-joshi69/Leetcoke/tree/master/0229-majority-element-ii) |
 ## Tree
 |  |
